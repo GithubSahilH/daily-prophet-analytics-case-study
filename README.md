@@ -165,6 +165,6 @@ daily-prophet/
  
 I'm looking for business analyst, strategy analyst, commercial analyst and risk analyst roles in Sydney, in consulting, financial services and technology.
  
-- LinkedIn: [your profile] (https://www.linkedin.com/in/mohammad-sahil-2786ba217/ )
+- LinkedIn: (https://www.linkedin.com/in/mohammad-sahil-2786ba217/ )
 - Email: mohammadsahilbhat01@gmail.com
 - Other work: my professional background (business analysis at Maruti Suzuki India, data analytics internship at Datasoft) and other projects (MedSync, RFM customer segmentation, Adventure Works Power BI dashboard) are on my CV and LinkedIn.
